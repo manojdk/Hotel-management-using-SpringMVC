@@ -1,0 +1,1 @@
+Hotel Management web Application major focus is on the building the backend part, Used concepts of model view controller with Dto, Dao and controller layers for writing the Backend part, added functionality of Owner, worker and customer with the relevant relationship between them. MySQL for the database also used Java Programming API. JSP for the frontend.
